@@ -1,3 +1,0 @@
-vtl-cli.jar for execution by the java -jar vtl-cli.jar command
-vtl for execution by the vtl command on Linux systems with java in PATH or JAVA_HOME set
-zos/vtl for execution by the vtl command on z/OS systems
